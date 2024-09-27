@@ -44,4 +44,4 @@ Integrating the prediction system into a customer relationship management (CRM) 
 
 Contact:
 
-For more information, please contact Vishal Banerjee at vishalbanerjee2002@gmail.com.
+For more information, please contact Vishal Banerjee at rajsingh403391@gmail.com
